@@ -73,3 +73,14 @@ Create and activate a virtual environment:
 ```bash
 python3.10 -m venv gesture_env
 source gesture_env/bin/activate
+```
+
+## Project Images
+
+### Project Setup
+
+![Smart Hand Mouse Control System](images/project-setup.jpg)
+
+### Arduino Emergency Alert Hardware
+
+![Arduino Emergency Alert Hardware](images/arduino-hardware.jpg)
